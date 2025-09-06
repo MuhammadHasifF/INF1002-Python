@@ -1,4 +1,4 @@
-# INF1002-Python
+# Stalking Stocks 
 
 ## Description
 
